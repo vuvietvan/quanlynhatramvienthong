@@ -1,14 +1,17 @@
 Tài khoản để đăng nhập quản lý nhà trạm viên thông
 
 Username : vuvietvan 
+
 Password :12345678
 
 --- và ----
 
 Username : Admin 
+
 Password :12345678
 
 ---------------------------------------------------
+
 Các  bước chạy souce code và csdl như sau 
  
 Bước 1 : Vào SQL SERVER chọn và mở chạy file "QLNTVT.mdf" 
@@ -18,4 +21,7 @@ và copy lại đường link (  Data Source=" Tên server của bạn ";Initial
 thay thế cho đường link cũ tại file ConnectionSQL 
 
 Bước 3 : Khởi chạy chương trình và nhập Username và Password ở trên để login
+
+
+____Xin cảm ơn_____
 
