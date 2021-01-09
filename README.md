@@ -2,7 +2,7 @@ Tài khoản để đăng nhập quản lý nhà trạm viên thông
 
 Username : vuvietvan 
 Password :12345678
-----HOẶC -----
+--- và ----
 Username : Admin 
 Password :12345678
 
